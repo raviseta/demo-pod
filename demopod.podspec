@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 s.name             = 'demopod'
 s.version          = '0.0.1'
 s.summary          = 'Custom pod creation for iOS'
-s.description      = <<-DESC “Describe the use of pod file”
+s.description      = “Describe the use of pod file”
 This highletbale view changes highlet text and makes your app look fantastic!
 DESC
 
