@@ -10,4 +10,5 @@ s.source           = { :git => 'https://github.com/raviseta/demo-pod.git', :tag 
 s.ios.deployment_target = '13.0'
 s.source_files = 'PodProject/**/*'
 s.static_framework = true
+s.framework = 'UIKit'
 end
