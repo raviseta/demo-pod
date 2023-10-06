@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 s.name             = 'demopod'
 s.version          = '0.0.1'
 s.summary          = 'Custom pod creation for iOS'
-s.description      = “Describe the use of pod file”
+s.description      = 'Describe the use of pod file'
 s.homepage         = 'https://github.com/raviseta/demo-pod'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'username' => 'dummyuser@abc.com' }
