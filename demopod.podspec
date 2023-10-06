@@ -6,7 +6,7 @@ s.description      = 'Describe the use of pod file'
 s.homepage         = 'https://github.com/raviseta/demo-pod'
 s.license          = { :type => 'MIT' }
 s.author           = { 'username' => 'dummyuser@abc.com' }
-s.source           = { :git => 'https://github.com/raviseta/demo-pod.git', :tag => s.version}
+s.source           = { :git => 'https://github.com/raviseta/demo-pod.git'}
 s.ios.deployment_target = '13.0'
 s.source_files = 'PodProject/**/*'
 s.static_framework = true
