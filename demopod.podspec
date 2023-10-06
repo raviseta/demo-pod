@@ -8,5 +8,5 @@ s.license          = { :type => 'MIT' }
 s.author           = { 'username' => 'dummyuser@abc.com' }
 s.source           = { :git => 'https://github.com/raviseta/demo-pod.git', :tag => s.version}
 s.ios.deployment_target = '13.0'
-s.source_files = 'PodProject/*'
+s.source_files = 'PodProject/**/*'
 end
